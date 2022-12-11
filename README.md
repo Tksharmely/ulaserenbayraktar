@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ulas Eren Bayraktar</h1>
+Hi, I'm Ulas Eren Bayraktar
 <p align="left">
 </p>
 
